@@ -58,6 +58,11 @@ h1 {
   font-weight: 500;
 }
 
+.text-directions p {
+  padding: 20px 0 20px 0;
+  font-weight: 500;
+}
+
 .container img {
   max-width: 100%;
   width: 300px;
@@ -72,6 +77,10 @@ h1 {
   margin: 0 auto;
 }
 
-li {
+.text-ingredients li {
   list-style-type: none;
+}
+
+.text-info {
+  padding: 10px;
 }
